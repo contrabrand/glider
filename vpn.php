@@ -1,4 +1,4 @@
-{"Version":"1.0",
+{"Version":"1.01",
 
 "Url":"https://github.com/contrabrand/glider/raw/main/gld.zip" ,
 
