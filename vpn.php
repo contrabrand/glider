@@ -4,11 +4,11 @@
 
 "Changelog":"  
 
-🙏 WELCOME TO Glider OVPN🙏
+        🙏 WELCOME TO Glider OVPN🙏
 
             Fast  Secure Stable
 
-Glider OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed. 
+Glider OVPN is a free and VIP app for those who want to access internet securely and get more faster download speed. 
 
 What we privode in our app
 
