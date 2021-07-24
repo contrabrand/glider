@@ -1,10 +1,10 @@
-{"Version":"1.01",
+{"Version":"1.02",
 
 "Url":"https://github.com/contrabrand/glider/raw/main/gld.zip" ,
 
 "Changelog":"  
 
-        🙏 WELCOME TO Glider OVPN🙏
+        🙏 WELCOME TO StallionNet🙏
 
             Fast  Secure Stable
 
