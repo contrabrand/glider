@@ -1,10 +1,10 @@
-{"Version":"1.02",
+{"Version":"1.03",
 
 "Url":"https://github.com/contrabrand/glider/raw/main/gld.zip" ,
 
 "Changelog":"  
 
-        🙏 WELCOME TO StallionNet🙏
+         🙏 WELCOME TO StallionNet🙏
 
             Fast  Secure Stable
 
@@ -12,7 +12,7 @@ Glider OVPN is a free and VIP app for those who want to access internet securely
 
 What we privode in our app
 
-🟢 AIS 🇹🇭
+🟢 AIS 🇹🇭 🚫
 🔵 DTAC 🇹🇭
 🔴 TRUE 🇹🇭
 🔴 MAXIS 🇲🇾 🔜
@@ -22,8 +22,8 @@ What we privode in our app
 🔴 Telkomsel 🇲🇨 🔜
 
 Our server location
-🇸🇬
-🇹🇭 🔜
+🇸🇬 🔜
+🇹🇭 
 🇲🇾 🔜
 🇲🇨 🔜
 
