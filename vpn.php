@@ -1,4 +1,4 @@
-{"Version":"1.05",
+{"Version":"1.06",
 
 "Url":"https://github.com/contrabrand/glider/raw/main/gld.zip" ,
 
@@ -8,7 +8,7 @@
 
             Fast  Secure Stable
 
-New updated 07/08/2021
+New updated 28/08/2021
 Added files
 - AIS 🇹🇭
 
@@ -16,7 +16,7 @@ Glider OVPN is a free and VIP app for those who want to access internet securely
 
 What we privode in our app
 
-🟢 AIS 🇹🇭 🚫
+🟢 AIS 🇹🇭 
 🔵 DTAC 🇹🇭
 🔴 TRUE 🇹🇭
 🔴 MAXIS 🇲🇾 🔜
@@ -26,8 +26,8 @@ What we privode in our app
 🔴 Telkomsel 🇲🇨 🔜
 
 Our server location
-🇸🇬 🔜
-🇹🇭 
+🇸🇬 
+🇹🇭 🔜
 🇲🇾 🔜
 🇲🇨 🔜
 
