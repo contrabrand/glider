@@ -10,7 +10,9 @@
 
 New updated 28/08/2021
 Added files
-- AIS 🇹🇭
+- AIS 🇸🇬
+- DTAC 🇸🇬
+- TRUE 🇸🇬
 
 Glider OVPN is a free and VIP app for those who want to access internet securely and get more faster download speed. 
 
@@ -34,6 +36,10 @@ Our server location
 Please choose the nearest server to your location for connection stability and get high-speed performance 
 
 Hope you all enjoy and thank you for using our app
+
+ติดต่อแอดมินเพื่อขอยูเซอร์
+
+LINE : aj07
 
 ",
 
