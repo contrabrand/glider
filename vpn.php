@@ -1,4 +1,4 @@
-{"Version":"1.07",
+{"Version":"1.08",
 
 "Url":"https://github.com/contrabrand/glider/raw/main/gld.zip" ,
 
@@ -10,9 +10,9 @@
 
 New updated 28/08/2021
 Added files
-- AIS 🇸🇬
-- DTAC 🇸🇬
-- TRUE 🇸🇬
+- AIS2 🇸🇬
+- DTAC2 🇸🇬
+- TRUE2 🇸🇬
 
 Glider OVPN is a free and VIP app for those who want to access internet securely and get more faster download speed. 
 
